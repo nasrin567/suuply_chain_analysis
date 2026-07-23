@@ -144,14 +144,3 @@ Add screenshots of:
 - Machine Learning Results
 
 ---
-
-## 📬 Contact
-
-**Nasrin Khatoon**
-
-- GitHub: https://github.com/nasrin567
-- LinkedIn: *(Add your LinkedIn profile link)*
-
----
-
-⭐ If you found this project useful, consider giving it a star!
