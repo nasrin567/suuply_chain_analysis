@@ -141,6 +141,5 @@ Add screenshots of:
 - Profit Analysis by Delay
 - Shipping Mode Analysis
 - Correlation Heatmap
-- Machine Learning Results
-
+- Machine Learning 
 ---
